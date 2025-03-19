@@ -40,12 +40,6 @@ Welcome to our platform! Our website offers a seamless experience for users and 
 
 ### 👋 Connect with me:
 
-<div align=center>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/dipesh-dwivedi17/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dipesh412)
-
-</div>
 
 <br>
 
